@@ -1,0 +1,14 @@
+.agenda-party {
+	padding: 24px 22px 0px 22px;
+	border: 1px solid #ccc;
+	border-left: none;
+	border-right: none;
+	text-align: center;
+	font-size: 1.5 em;
+}
+.agenda tr {
+	height: 62px;
+	border: 1px solid #ccc;
+	border-left:none;
+	border-right:none;
+}
