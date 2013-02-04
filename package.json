@@ -1,0 +1,21 @@
+{
+  "name": "Compass-Hack",
+  "version": "0.0.0",
+  "description": "This project is an application skeleton for a typical [AngularJS](http://angularjs.org/) web app. You can use it to quickly bootstrap your angular webapp projects and dev environment for these projects.",
+  "main": "web.js",
+  "dependencies": {
+    "node-static": "~0.6.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jamiltz/Compass-Hack.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "7b45a74cff052548e07d5aec50a821f835139a80"
+}
