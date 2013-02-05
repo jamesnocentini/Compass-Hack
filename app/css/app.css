@@ -49,5 +49,5 @@ h2{font-size:2em;}
 .l-single{width:256px; float:left;}
 
 .l-double{width: 536px; float: left; margin-left: 1.5em;}
-.kicker{font-size: 2em;font-family: "museo-slab";font-weight: bold;line-height: 1.2;}
+.kicker{font-size: 2em;font-family: "museo-slab";font-weight: bold;line-height: 1.2;margin-top:10px}
 .aboutus{margin-bottom:30px}
