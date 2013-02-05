@@ -1,0 +1,6 @@
+.equation{list-style:none;}
+li{float:left;width:128px;height:128px;}
+.plus{padding:32px 32px 32px 32px;}
+.equal{padding:32px 32px 32px 32px;}
+#canvas{background:none;}
+.icon-single {padding: 0px 11px 0px 11px}
